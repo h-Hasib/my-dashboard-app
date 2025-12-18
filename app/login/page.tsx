@@ -102,9 +102,9 @@ export default function LoginPage() {
         </form>
 
         <p className="mt-4 text-sm text-gray-600 text-center">
-          Test credentials: 
-          <p>Email: eve.holt@reqres.in </p>
-          <p>Password: any password </p>
+          <strong>Test credentials:</strong><br />
+          Email: eve.holt@reqres.in<br />
+          Password: any password
         </p>
       </div>
     </div>
