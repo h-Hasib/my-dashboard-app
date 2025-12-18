@@ -18,6 +18,14 @@ Email: eve.holt@reqres.in
 Password: any password
 ```
 
+## 💻 ⚙️ Tech Stack
+``` Bash 
+ * Next.js App Router.
+ * Middleware for route protection.
+ * HttpOnly cookies.
+``` 
+
+
 ## ✅ Verify Secure Authentication
 
 ```
@@ -40,4 +48,12 @@ After logging in:
 
 Look at Cookies → https://https://my-dashboard-app-omega.vercel.app/ (again
 You should now see the auth-token cookie!)
+```
+
+
+## 🛠️ 🔧 Future Integration 
+
+```
+1. JWT/OAuth authentication.
+2. PostgreSQL DBMS and Prisma ORM
 ```
